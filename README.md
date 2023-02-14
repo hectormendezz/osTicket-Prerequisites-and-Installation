@@ -40,7 +40,7 @@ Now we will create our virtual machine (VM), this will allow us to use a fabrica
 </p>
 <br />
 
-[<p>
+<p>
 <img src="https://i.imgur.com/dmr7d8i.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
