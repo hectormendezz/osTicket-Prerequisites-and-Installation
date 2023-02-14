@@ -25,7 +25,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>Installation Steps</h2>
 
 <p>
-<img src="[ ](https://i.imgur.com/gGPecTA.png)height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/gGPecTA.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 First, we open up our Azure subscription and start off by creating our resource group, this works as a file to store all of our resources on Azure. You want to call it "osTicket" since this is the project we are doing, make sure to keep note of the location you set this resource group in because it is important for later.
